@@ -1,1 +1,1 @@
-Im taking a break from the internet. Im bored from being cyberbullied
+being internetless is so boring. Coming back rn
