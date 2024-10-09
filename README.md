@@ -9,4 +9,4 @@ Discord - netpa
 
 Instagram - [netpa_16](https://instagram.com/netpa_16)
 
-Feel free to message me or friend me on any platform.
+Feel free to message me or add me on any platform.
