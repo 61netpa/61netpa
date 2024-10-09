@@ -2,7 +2,7 @@ A lil silly guy that loves LuaU!
 
 ###### I hate it.
 
-## My contacts:
+## My socials:
 Guilded - [netpa](https://www.guilded.gg/u/netpa)
 
 Discord - netpa
