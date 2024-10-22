@@ -5,7 +5,7 @@ A lil silly guy that loves LuaU!
 ## My socials:
 Guilded - [netpa](https://www.guilded.gg/u/netpa)
 
-Discord - netpa
+Discord - [netpa](https://discord.com/users/757494097375264830)
 
 Instagram - [netpa_16](https://instagram.com/netpa_16)
 
