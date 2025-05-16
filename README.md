@@ -18,4 +18,4 @@ I am netpa, also known as nepta or Monke. I code stuff for fun. The coding langu
 Feel free to message me or add me on any platform.
 
 #### Discord Status
-[![Discord Presence](https://lanyard.cnrad.dev/api/757494097375264830?animated=false&showDisplayName=true&hideTimestamp=false&bg=00030f)](https://discord.com/users/757494097375264830)
+[![Discord Presence](https://lanyard.cnrad.dev/api/757494097375264830?animated=false&showDisplayName=true&hideTimestamp=false&bg=00030f&idleMessage=Well%20that's%20weird.%20No%20activity%20has%20been%20detected.%20I%20guess%20I'm%20either%20not%20doing%20anything%20or%20I'm%20offline.)](https://discord.com/users/757494097375264830)
