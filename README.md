@@ -2,7 +2,7 @@
 I am netpa, also known as nepta or Monke. I code stuff for fun. The coding languages I know are LuaU and HTML. I am currently learning CSS, Java and Kotlin.
 
 ## My Projects
-**[Revolt Material](https://github.com/61netpa/Revolt-Material)** - A CSS learning project of mine that I'm trying to make a custom theme for Revolt based on [CapnKitten's Material Discord](https://github.com/CapnKitten/Material-Discord) theme.
+**[Material for Revolt](https://github.com/61netpa/Material-for-Revolt)** - A CSS learning project of mine that I'm trying to make a custom theme for Revolt based on [CapnKitten's Material Discord](https://github.com/CapnKitten/Material-Discord) theme.
 
 **[Meonkify](https://github.com/61netpa/Meonkify)** - An old project of mine that gave the player some unique utilities on the supported game(s). I am not planning on updating it with actual features since I don't really like doing stuff on Roblox.
 
