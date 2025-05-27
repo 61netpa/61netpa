@@ -9,7 +9,7 @@ I am netpa, also known as nepta or Monke. I code stuff for fun. The coding langu
 **[Lanyard Spotify Roblox Overlay](https://github.com/61netpa/lanyard-spotify-roblox-overlay)** - Another old project of mine that displayed the currently playing spotify activity using [Lanyard API](https://github.com/Phineas/lanyard). It is currently discontinued.
 
 ## My Socials
-~**[Guilded](https://guilded.gg)** - [netpa](https://www.guilded.gg/u/netpa)~ (Guilded is down)
+**[Guilded](https://guilded.gg)** - [netpa](https://www.guilded.gg/u/netpa)
 
 **[Discord](https://discord.com)** - [netpa](https://discord.com/users/757494097375264830)
 
