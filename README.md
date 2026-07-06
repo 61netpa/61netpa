@@ -1,5 +1,5 @@
 # Hello!
-I am netpa, also known as nepta or Monke. I code stuff for fun. The coding languages I know are LuaU, HTML and CSS. I am currently learning Python, JavaScript, Java and Kotlin.
+I am netpa, also known as nepta or Monke. I code stuff for fun. The coding languages I know are Python, LuaU, HTML and CSS. I am currently learning JavaScript, Java and Kotlin.
 
 ## My Projects
 **[Material for Roblox](https://github.com/61netpa/Material-for-Roblox)** - A CSS style for Roblox based on [Google's Material](https://m3.material.io/) design.
@@ -11,6 +11,8 @@ I am netpa, also known as nepta or Monke. I code stuff for fun. The coding langu
 **[Meonkify](https://github.com/61netpa/Meonkify)** - An utility script that gives the player unique utilities for Roblox.
 
 **[Lanyard Spotify Roblox Overlay](https://github.com/61netpa/lanyard-spotify-roblox-overlay)** - A LuaU script that displays the playing spotify activity using [Lanyard API](https://github.com/Phineas/lanyard).
+
+**[PterodactylAutoStarter](https://github.com/61netpa/PterodactylAutoStarter)** - An auto start script for servers that has Pterodactly API support written in Python.
 
 ## My Socials
 **[Discord](https://discord.com)** - [netpa](https://discord.com/users/757494097375264830)
