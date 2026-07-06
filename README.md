@@ -12,7 +12,7 @@ I am netpa, also known as nepta or Monke. I code stuff for fun. The coding langu
 
 **[Lanyard Spotify Roblox Overlay](https://github.com/61netpa/lanyard-spotify-roblox-overlay)** - A LuaU script that displays the playing spotify activity using [Lanyard API](https://github.com/Phineas/lanyard).
 
-**[PterodactylAutoStarter](https://github.com/61netpa/PterodactylAutoStarter)** - An auto start script for servers that has Pterodactly API support written in Python.
+**[Pterodactyl Auto Starter](https://github.com/61netpa/PterodactylAutoStarter)** - An auto start script for servers that has Pterodactly API support written in Python.
 
 ## My Socials
 **[Discord](https://discord.com)** - [netpa](https://discord.com/users/757494097375264830)
